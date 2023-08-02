@@ -10,7 +10,7 @@
         "Tags": [
           {
             "Key": "Name",
-            "Value": "My S3 Bucket"
+            "Value": "My S3Bucket"
           }
         ]
       }
