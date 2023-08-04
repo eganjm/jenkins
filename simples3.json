@@ -18,7 +18,7 @@
   },
   "Outputs": {
     "BucketName": {
-      "Description": "Name of the S3 bucket",
+      "Description": "Name the S3 bucket",
       "Value": {
         "Ref": "MyS3Bucket"
       }
